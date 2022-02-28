@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\bin\Debug\netcoreapp1.1\AlgorithmQuestions.deps.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\bin\Debug\netcoreapp1.1\AlgorithmQuestions.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\bin\Debug\netcoreapp1.1\AlgorithmQuestions.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\bin\Debug\netcoreapp1.1\AlgorithmQuestions.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\bin\Debug\netcoreapp1.1\AlgorithmQuestions.pdb
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\obj\Debug\netcoreapp1.1\AlgorithmQuestions.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\obj\Debug\netcoreapp1.1\AlgorithmQuestions.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\obj\Debug\netcoreapp1.1\AlgorithmQuestions.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\AlgorithmQuestions\obj\Debug\netcoreapp1.1\AlgorithmQuestions.pdb
